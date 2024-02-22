@@ -1,4 +1,5 @@
 [1960's]
+- Mr. Tambourine Man (The Byrds) 1965
 - In the Court of the Crimson King (King Crimson) 1969
 ---
 [1970's]
