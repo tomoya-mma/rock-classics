@@ -1,4 +1,5 @@
 [1960's]
+- Pet Sounds (The Beach Boys) (1966)
 - In the Court of the Crimson King (King Crimson) (1969)
 ---
 [1970's]
@@ -13,6 +14,7 @@
 ---
 [1980's]
 - Back in Black (AC/DC) (1980)
+- Iron Maiden (Iron Maiden) (1980)
 - Master of Puppets (Metallica) (1986)
 - Appetite for Destruction (Guns N' Roses) (1987)
 - Hysteria (Def Leppard) (1987)
