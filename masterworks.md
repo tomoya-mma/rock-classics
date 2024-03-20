@@ -1,8 +1,24 @@
 [1960's]
+- Mr. Tambourine Man (The Byrds) (1965)
 - Pet Sounds (The Beach Boys) (1966)
+- Roger the Engineer (The Yardbirds) (1966)
+- Disraeli Gears (Cream) (1967)
+- Surrealistic Pillow (Jefferson Airplane) (1967)
+- The Doors (The Doors) (1967)
+- Cheap Thrills (Big Brother and the Holding Company album) (1968)
+- Electric Ladyland (The Jimi Hendrix Experience) (1968)
+- The Kinks Are the Village Green Preservation Society (The Kinks) (1968)
+- Truth (Jeff Beck Group) (1968)
+- Abbey Road (The Beatles) (1969)
 - In the Court of the Crimson King (King Crimson) (1969)
+- Led Zeppelin (Led Zeppelin) (1969)
+- Let It Bleed (The Rolling Stones) (1969)
+- Ssssh (Ten Years After) (1969)
+- シカゴの軌跡 (Chicago Transit Authority) (1969)
 ---
 [1970's]
+- Climbing! (Mountain) (1970)
+- Free Live! (Free) (1971)
 - Pictures at an Exhibition (Emerson, Lake & Palmer) (1971)
 - Who's Next (The Who) (1971)
 - Close to the Edge (Yes) (1972)
@@ -22,4 +38,5 @@
 - Operation: Mindcrime (Queensrÿche) (1988)
 ---
 [1990's]
+- When You're Tuesday Girls (Tuesday Girls) (1995)
 - Metropolis Pt. 2: Scenes from a Memory (Dream Theater) (1999)
